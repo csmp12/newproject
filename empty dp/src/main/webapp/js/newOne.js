@@ -8,4 +8,5 @@ function stuRecord(res){
 		temp='<tr><td>'+res.sl_No+'</td><td>'+res.location+'</td><td>'+res.name+'</td><td>'+res.reg_No+'</td><td>'+res.status+'</td></tr>';
 	}
 	document.getElementById("aa").innerHTML=temp;
+	fjsdgfjsg
 }
